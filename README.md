@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ruchika Pandey</h1>
-<h3 align="center">I'm a Full Stack Web Developer & UI/UX Designer.</h3>
+<h3 align="center">I'm a Frontend Web Developer & UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchika-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ruchika-pandey" /> </p>
 
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ruchika-pandey-3151b0283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika-pandey-3151b0283" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchika-pandey&show_icons=true&locale=en" alt="ruchika-pandey" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchika-pandey&" alt="ruchika-pandey" /></p>
