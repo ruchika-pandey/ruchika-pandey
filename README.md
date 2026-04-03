@@ -1,19 +1,5 @@
 <h1 align="center">Hi , I'm Ruchika Pandey</h1>
-<h3 align="center">I'm a Full Stack Web Developer & UI/UX Designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchika-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ruchika-pandey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchika-pandey" alt="ruchika-pandey" /></a> </p>
-
-- 🔭 I’m currently working on [Airbnb Clone with MERN Stack](https://github.com/ruchika-pandey/Airbnb-Clone_Phase1)
-
-- 🌱 I’m currently learning **AWS Cloud, Web Development, DSA, Aptitude**
-
-- 👯 I’m looking to collaborate on **IPL Analysis in PowerBI**
-
-- 👨‍💻 All of my projects are available at [https://lnkd.in/dwe-DGPi](https://lnkd.in/dwe-DGPi)
-
-- 📫 How to reach me **ruchikapandey292@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
